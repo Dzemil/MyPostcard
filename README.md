@@ -1,6 +1,6 @@
-My first android app.
+# My first android app.
 
-Made by following Google's "Developing Android Apps" course on Udacity.
+Made by following Google's *"Developing Android Apps"* course on Udacity.
 
 The app is as simple as it gets, consisting of only one ViewGroup and 2 child views.
 
